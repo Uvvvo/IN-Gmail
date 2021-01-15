@@ -30,7 +30,7 @@ Note / Performance is under development
 ### Run
 
 ```
-[-] cd checker 
+[-] cd IN-Gmail
 [-] chmod +x IN-Gmail.py
 [-] python IN-Gmail.py
 ```
