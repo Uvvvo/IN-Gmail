@@ -15,7 +15,7 @@ print("""
                                      """)
 time.sleep(2)
 
-print("[!] The tool is under development\n[*]GitHub :- github.com/kanekikon\n[*]Telegram :- T.me/SSScw")
+print("[!] The tool is under development\n[*] GitHub :- github.com/kanekikon\n[*] Telegram :- T.me/SSScw")
 print(">>>>>>>>>>>>>>>>>>>>>\n")
 time.sleep(2)
 print("[!] Enter the end of email @gmail.com")
