@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0-blue)]()
 [![Python](https://img.shields.io/badge/Python-v%2B-blue)]()
-[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/ssscw)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/CTITIT)
 
 
 Simple tool to check email if it is connected to email and Instagram
