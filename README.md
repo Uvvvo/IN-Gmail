@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0-blue)]()
 [![Python](https://img.shields.io/badge/Python-v%2B-blue)]()
-[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/CTITIT)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/CTlTl)
 
 
 Simple tool to check email if it is connected to email and Instagram
@@ -23,7 +23,7 @@ Note / Performance is under development
 -  pkg install python2 -y
 -  pkg install git -y
 -  pip install requests
--  git clone https://github.com/kanekikon/IN-Gmail
+-  git clone https://github.com/uvvvo/IN-Gmail
 ```
 
 
